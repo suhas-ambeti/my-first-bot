@@ -1,2 +1,2 @@
-streamline
-open
+streamlit
+openai
